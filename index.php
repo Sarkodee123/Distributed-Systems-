@@ -1,5 +1,5 @@
 <?php
-  $page = $_SERVER['http://localhost/abel&millsbot/deploymessages.php'];
+  $page = $_SERVER['http://localhost/chic-chat/deploymessages.php'];
 $sec = "25";
      //accepting variables from the text box on our site
   //this feature is also used for manually sending messages to the intended user 
